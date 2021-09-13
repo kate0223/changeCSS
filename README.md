@@ -1,3 +1,3 @@
 # changeCSS
-Chrome Extensions to change CSS of a website
-THIS IS TEMPLATE
+Chrome Extensions to change CSS of a website<br>
+THIS IS A TEMPLATE.
